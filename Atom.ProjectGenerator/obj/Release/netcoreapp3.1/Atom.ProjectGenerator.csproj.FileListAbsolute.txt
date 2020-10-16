@@ -1,0 +1,4 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ProjectGenerator\obj\Release\netcoreapp3.1\Atom.ProjectGenerator.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ProjectGenerator\obj\Release\netcoreapp3.1\Atom.ProjectGenerator.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ProjectGenerator\obj\Release\netcoreapp3.1\Atom.ProjectGenerator.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ProjectGenerator\obj\Release\netcoreapp3.1\Atom.ProjectGenerator.csproj.CoreCompileInputs.cache

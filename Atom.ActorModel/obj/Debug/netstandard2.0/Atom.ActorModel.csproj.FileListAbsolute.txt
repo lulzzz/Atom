@@ -1,0 +1,9 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\bin\Debug\netstandard2.0\Atom.ActorModel.deps.json
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\bin\Debug\netstandard2.0\Atom.ActorModel.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\bin\Debug\netstandard2.0\Atom.ActorModel.pdb
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.csproj.CoreCompileInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.0\Atom.ActorModel.pdb

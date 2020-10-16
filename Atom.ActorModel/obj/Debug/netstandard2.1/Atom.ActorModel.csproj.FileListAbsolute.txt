@@ -1,0 +1,16 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.csproj.CoreCompileInputs.cache
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.csprojAssemblyReference.cache
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.AssemblyInfoInputs.cache
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.AssemblyInfo.cs
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.csproj.CoreCompileInputs.cache
+D:\Repos\Atom\Atom.ActorModel\bin\Debug\netstandard2.1\Atom.ActorModel.deps.json
+D:\Repos\Atom\Atom.ActorModel\bin\Debug\netstandard2.1\Atom.ActorModel.dll
+D:\Repos\Atom\Atom.ActorModel\bin\Debug\netstandard2.1\Atom.ActorModel.pdb
+D:\Repos\Atom\Atom.ActorModel\bin\Debug\netstandard2.1\Atom.Models.dll
+D:\Repos\Atom\Atom.ActorModel\bin\Debug\netstandard2.1\Atom.Models.pdb
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.csproj.CopyComplete
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.dll
+D:\Repos\Atom\Atom.ActorModel\obj\Debug\netstandard2.1\Atom.ActorModel.pdb

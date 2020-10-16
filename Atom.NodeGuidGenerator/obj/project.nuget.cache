@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A1Hm/CxLPEF403uwtgORMiVHztvlJNKqFi/91xdaNlOFYHSLe5fybayZJfaKhMW3GAoWsleqpyIgj/8m3o6fOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rvs\\source\\repos\\Atom.NodeAdmin\\Atom.NodeGuidGenerator\\Atom.NodeGuidGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rvs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

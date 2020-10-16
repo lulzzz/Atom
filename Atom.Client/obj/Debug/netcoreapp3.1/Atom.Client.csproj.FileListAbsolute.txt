@@ -1,0 +1,4 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Client\obj\Debug\netcoreapp3.1\Atom.Client.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Client\obj\Debug\netcoreapp3.1\Atom.Client.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Client\obj\Debug\netcoreapp3.1\Atom.Client.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Client\obj\Debug\netcoreapp3.1\Atom.Client.csproj.CoreCompileInputs.cache

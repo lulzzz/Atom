@@ -1,0 +1,17 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.csproj.CoreCompileInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.pdb
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.deps.json
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.pdb
+D:\Repos\Atom\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.deps.json
+D:\Repos\Atom\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.dll
+D:\Repos\Atom\Atom.Models\bin\Debug\netstandard2.1\Atom.Models.pdb
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.csprojAssemblyReference.cache
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.AssemblyInfoInputs.cache
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.AssemblyInfo.cs
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.dll
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.pdb
+D:\Repos\Atom\Atom.Models\obj\Debug\netstandard2.1\Atom.Models.csproj.CoreCompileInputs.cache

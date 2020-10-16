@@ -1,0 +1,4 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Release\netstandard2.1\Atom.ActorModel.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Release\netstandard2.1\Atom.ActorModel.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Release\netstandard2.1\Atom.ActorModel.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.ActorModel\obj\Release\netstandard2.1\Atom.ActorModel.csproj.CoreCompileInputs.cache

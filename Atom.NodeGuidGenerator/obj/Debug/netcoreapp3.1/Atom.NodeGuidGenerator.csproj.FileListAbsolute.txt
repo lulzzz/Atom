@@ -1,0 +1,13 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.exe
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.deps.json
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.runtimeconfig.json
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.runtimeconfig.dev.json
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\bin\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.pdb
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.csprojAssemblyReference.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.csproj.CoreCompileInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.dll
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.pdb
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.NodeGuidGenerator\obj\Debug\netcoreapp3.1\Atom.NodeGuidGenerator.genruntimeconfig.cache

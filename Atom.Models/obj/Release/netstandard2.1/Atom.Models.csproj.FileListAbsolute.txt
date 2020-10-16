@@ -1,0 +1,3 @@
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Release\netstandard2.1\Atom.Models.AssemblyInfoInputs.cache
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Release\netstandard2.1\Atom.Models.AssemblyInfo.cs
+C:\Users\rvs\source\repos\Atom.NodeAdmin\Atom.Models\obj\Release\netstandard2.1\Atom.Models.csproj.CoreCompileInputs.cache
