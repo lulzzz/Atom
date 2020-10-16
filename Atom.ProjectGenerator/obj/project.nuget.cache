@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CwoUo7915IelbTKG6PciqgMK7dtgQff935qRgqs61dKmllletpBEwp59U1chf7ovNnahnkvei9p4gzJD+HX0nA==",
+  "dgSpecHash": "fqfH+n2X220ZdolKBhV8NZREf3xVwQDJf3E+3J2V5kBdgyiCm2hKu/q0PrMUZXq1kRZhlPjjnwOE9XEOZUpFJQ==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Atom\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
+  "projectFilePath": "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rvs\\.nuget\\packages\\akka\\1.4.10\\akka.1.4.10.nupkg.sha512",
     "C:\\Users\\rvs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -209,8 +209,10 @@ namespace Atom.Models
         public SignalOptions SignalOptions { get; set; }
         #endregion
 
-       
 
+        public DateTime DateTimeNow { get; set; }
+
+        public bool IsFinished { get; set; } = false;
 
         public DateTime Start { get; set; }
 
@@ -243,6 +245,22 @@ namespace Atom.Models
 
         #endregion
 
+        //public void UpdateProjects(Timetable timetable)
+        //{
+        //    foreach(var item in timetable.Tasks)
+        //    {
+               
+        //        var t = this.SubProjects.First(x=>x.Value.Id == item.Value.Id);
+        //        if(t!=null)
+        //        {
+        //            t.Value.IsFinished = true;
+        //        }
+        //        else
+        //        {
+        //            foreach(var it in )
+        //        }
+        //    }
+        //}
 
 
 

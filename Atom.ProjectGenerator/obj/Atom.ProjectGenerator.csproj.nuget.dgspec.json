@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\Atom\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj": {}
+    "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj": {
+    "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj",
+        "projectUniqueName": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj",
         "projectName": "Atom.ActorModel",
-        "projectPath": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj",
+        "projectPath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj",
         "packagesPath": "C:\\Users\\rvs\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\Atom\\Atom.ActorModel\\obj\\",
+        "outputPath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNugetPackages",
@@ -34,8 +34,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {
-                "projectPath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj"
+              "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {
+                "projectPath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {
+    "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj",
+        "projectUniqueName": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj",
         "projectName": "Atom.Models",
-        "projectPath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj",
+        "projectPath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj",
         "packagesPath": "C:\\Users\\rvs\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\Atom\\Atom.Models\\obj\\",
+        "outputPath": "D:\\Repos\\AtomRos\\Atom.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNugetPackages",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "D:\\Repos\\Atom\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj": {
+    "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\Atom\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
+        "projectUniqueName": "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
         "projectName": "Atom.ProjectGenerator",
-        "projectPath": "D:\\Repos\\Atom\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
+        "projectPath": "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\Atom.ProjectGenerator.csproj",
         "packagesPath": "C:\\Users\\rvs\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\Atom\\Atom.ProjectGenerator\\obj\\",
+        "outputPath": "D:\\Repos\\AtomRos\\Atom.ProjectGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNugetPackages",
@@ -172,11 +172,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj": {
-                "projectPath": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj"
+              "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj": {
+                "projectPath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj"
               },
-              "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {
-                "projectPath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj"
+              "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {
+                "projectPath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj"
               }
             }
           }

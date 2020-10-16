@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNrRMGeVRpjRuzPppvzliuX25gtwbzslwP2TtUNBMmCEVW19FUNo97Dd1nhJsiUYFMgcYI2vs5R/LzsxIVylRQ==",
+  "dgSpecHash": "qrnXR9Dz9LCbtA1OYP9twsOCyJpYhUGJkfY4CYL8mkRANPnGUAuWWDgjpDHNGjk4B6SgcvMdrWNK+b6u41Gb/w==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj",
+  "projectFilePath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rvs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rvs\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"

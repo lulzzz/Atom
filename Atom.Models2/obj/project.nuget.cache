@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "30ROynZpV6+Ux5dmJhQZzRtVKcFg5sQ/n2HQQH2iVlFuWwhc+PTrNP+wJAsqf91l6fgP6FzuqMfzw31xqsMeBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\AtomRos\\Atom.Models2\\Atom.Models2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rvs\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rvs\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

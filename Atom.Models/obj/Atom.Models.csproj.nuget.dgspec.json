@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {}
+    "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {
+    "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj",
+        "projectUniqueName": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj",
         "projectName": "Atom.Models",
-        "projectPath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj",
+        "projectPath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj",
         "packagesPath": "C:\\Users\\rvs\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\Atom\\Atom.Models\\obj\\",
+        "outputPath": "D:\\Repos\\AtomRos\\Atom.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Progress\\ToolboxNugetPackages",

@@ -660,11 +660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj",
+      "projectUniqueName": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj",
       "projectName": "Atom.ActorModel",
-      "projectPath": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj",
+      "projectPath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj",
       "packagesPath": "C:\\Users\\rvs\\.nuget\\packages\\",
-      "outputPath": "D:\\Repos\\Atom\\Atom.ActorModel\\obj\\",
+      "outputPath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Progress\\ToolboxNugetPackages",
@@ -687,8 +687,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj": {
-              "projectPath": "D:\\Repos\\Atom\\Atom.Models\\Atom.Models.csproj"
+            "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj": {
+              "projectPath": "D:\\Repos\\AtomRos\\Atom.Models\\Atom.Models.csproj"
             }
           }
         }

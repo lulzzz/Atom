@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9X1LB2Dzmuv6+AZGrC+3MNkzaMQaPpPidvCLzUrNw9b+kqSLDZ1l1np25J+RmvuKLVk8pdCZNHYjL7NEdJLDJA==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\AtomRos\\Atom.ProjectGenerator2\\Atom.ProjectGenerator2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rvs\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

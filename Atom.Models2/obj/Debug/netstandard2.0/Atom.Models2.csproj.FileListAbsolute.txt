@@ -1,0 +1,9 @@
+D:\Repos\AtomRos\Atom.Models2\bin\Debug\netstandard2.0\Atom.Models2.deps.json
+D:\Repos\AtomRos\Atom.Models2\bin\Debug\netstandard2.0\Atom.Models2.dll
+D:\Repos\AtomRos\Atom.Models2\bin\Debug\netstandard2.0\Atom.Models2.pdb
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.csprojAssemblyReference.cache
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.AssemblyInfoInputs.cache
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.AssemblyInfo.cs
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.csproj.CoreCompileInputs.cache
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.dll
+D:\Repos\AtomRos\Atom.Models2\obj\Debug\netstandard2.0\Atom.Models2.pdb

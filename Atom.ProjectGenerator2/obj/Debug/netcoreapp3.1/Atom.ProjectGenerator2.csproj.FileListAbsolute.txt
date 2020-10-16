@@ -1,0 +1,17 @@
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.exe
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.csprojAssemblyReference.cache
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.AssemblyInfoInputs.cache
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.AssemblyInfo.cs
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.deps.json
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.runtimeconfig.json
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.runtimeconfig.dev.json
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.dll
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.ProjectGenerator2.pdb
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.Models2.dll
+D:\Repos\AtomRos\Atom.ProjectGenerator2\bin\Debug\netcoreapp3.1\Atom.Models2.pdb
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.csproj.CoreCompileInputs.cache
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.csproj.CopyComplete
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.dll
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.pdb
+D:\Repos\AtomRos\Atom.ProjectGenerator2\obj\Debug\netcoreapp3.1\Atom.ProjectGenerator2.genruntimeconfig.cache

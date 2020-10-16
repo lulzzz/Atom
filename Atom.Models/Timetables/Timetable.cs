@@ -10,20 +10,19 @@ namespace Atom.Models
     {
         public Dictionary<Project, TimetableProjectOptions> Tasks = new Dictionary<Project, TimetableProjectOptions>();
 
-
         public Timetable()
         {
 
         }
-    
+
         public void ExportTimetable(string path)
         {
-            using(StreamWriter sw = new StreamWriter(path))
+            using (StreamWriter sw = new StreamWriter(path))
             {
-                for(var i=0; i< Tasks.Count; i++)
+                for (var i = 0; i < Tasks.Count; i++)
                 {
                     var item = Tasks.ElementAt(i);
-                    sw.WriteLine($"{item.Key.Id};{item.Key.Name};{item.Value.Start};{item.Value.Finish};{item.Value.Duration}");          
+                    sw.WriteLine($"{item.Key.Id};{item.Key.Name};{item.Value.Start};{item.Value.Finish};{item.Value.Duration}");
                 }
                 sw.Close();
             }
@@ -35,9 +34,20 @@ namespace Atom.Models
             {
                 var item = Tasks.ElementAt(i);
                 Console.WriteLine($"{item.Key.Id};{item.Key.Name};{item.Value.Start};{item.Value.Finish};{item.Value.Duration}");
-            }         
+            }
+        }
+
+        public static double operator -(Timetable t1, Timetable t2)
+        {
+            double result = 0;
+
+            
+
+            return result;
         }
     }
+
+
 
     public class TimetableProjectOptions
     {
@@ -45,10 +55,7 @@ namespace Atom.Models
         {
 
         }
-        public object FuzzyStart { get; set; }
-        public object FuzzyFinish { get; set; }
-        public object FuzzyDuration { get; set; }
-
+        public string Id { get; set; }
         public DateTime Start { get; set; }
         public DateTime Finish { get; set; }
         public TimeSpan Duration { get; set; }

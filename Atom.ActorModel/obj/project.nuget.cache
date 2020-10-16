@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eEVWDdKtzTdSFPwP6D8ypNThsbSmCo3KhX1VtziKNdiRABqSRGox9N1gfXtD85FCmCvKSpjeAWm3W9hsg1toQQ==",
+  "dgSpecHash": "CrK7iMUoIiuOJjeIh2C+bbkWfjfF1Fk5siudILx7H7P5Y3n2Qu6/tTuOSW4rEdwcBfzuvTgtLCtsFRMrnUAAkA==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\Atom\\Atom.ActorModel\\Atom.ActorModel.csproj",
+  "projectFilePath": "D:\\Repos\\AtomRos\\Atom.ActorModel\\Atom.ActorModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rvs\\.nuget\\packages\\akka\\1.4.10\\akka.1.4.10.nupkg.sha512",
     "C:\\Users\\rvs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
